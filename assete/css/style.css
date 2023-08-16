@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.introduce{
+    width: 100%;
+    height: 500px;
+    background-image: url("../img/personal-website/latest-work/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.introduce-area{
+    width: 35%;
+    height: 500px;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+    
+}
+.highlight{
+    color: orange;
+}
+
